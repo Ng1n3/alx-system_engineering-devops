@@ -1,1 +1,1 @@
-Shell basics
+shell scripts intro
